@@ -31,9 +31,11 @@ Este projeto consiste em uma tela de login básica desenvolvida com HTML, CSS e 
    cd nome-do-repositorio
  
 2. Inicie os containers com Docker Compose:
+   ```sh
    docker-composo up -d
    
 4. Acesse a aplicação pelo navegador em:
+   ```sh
    http://localhost:8000
    
 ## 📂 Estrutura do Projeto  
