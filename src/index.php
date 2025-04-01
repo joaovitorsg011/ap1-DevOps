@@ -12,7 +12,7 @@
             background-color: #ecee8e;
         }
         h1 {
-            color: #4CAF50;
+            color:rgb(73, 170, 77);
         }
         .btn-login {
             background-color: #1b631d;
