@@ -29,6 +29,10 @@ Este projeto consiste em uma tela de login básica desenvolvida com HTML, CSS e 
    ```sh
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
+2. Inicie os containers com Docker Compose:
+   docker-composo up -d
+3. Acesse a aplicação pelo navegador em:
+   http://localhost:8000
    
 ## 📂 Estrutura do Projeto  
 - src/ → Código-fonte (HTML, CSS, PHP)  
