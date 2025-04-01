@@ -27,8 +27,8 @@ Este projeto consiste em uma tela de login básica desenvolvida com HTML, CSS e 
 ### 🏃 Passos  
 1. Clone este repositório:  
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/joaovitorsg011/ap1-devops.git
+   cd ap1-devops
  
 2. Inicie os containers com Docker Compose:
    ```sh
@@ -36,7 +36,7 @@ Este projeto consiste em uma tela de login básica desenvolvida com HTML, CSS e 
    
 4. Acesse a aplicação pelo navegador em:
    ```sh
-   http://localhost:8000
+   http://localhost:5000
    
 ## 📂 Estrutura do Projeto  
 - src/ → Código-fonte (HTML, CSS, PHP)  
