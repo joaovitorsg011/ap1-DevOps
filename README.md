@@ -29,3 +29,9 @@ Este projeto consiste em uma tela de login básica desenvolvida com HTML, CSS e 
    ```sh
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
+   
+## 📂 Estrutura do Projeto  
+- src/ → Código-fonte (HTML, CSS, PHP)  
+- docs/ → Documentação do projeto  
+- docker-compose.yml → Configuração do Docker  
+- Dockerfile → Configuração do container
